@@ -1,2 +1,2 @@
 # terraform
-cases create infrastructure by terraform
+case create infrastructure by terraform
